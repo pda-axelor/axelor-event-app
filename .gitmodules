@@ -1,0 +1,3 @@
+[submodule "modules/abs/axelor-events"]
+	path = modules/abs/axelor-events
+	url = git@github.com:pda26/axelor-events.git
